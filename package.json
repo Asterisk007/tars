@@ -1,0 +1,11 @@
+{
+  "name": "tars-discord",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "git@github.com:Asterisk007/tars.git",
+  "author": "Asterisk007 <spykid1998@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
