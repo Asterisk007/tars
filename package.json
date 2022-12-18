@@ -2,6 +2,9 @@
   "name": "tars-discord",
   "version": "1.0.0",
   "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
   "repository": "git@github.com:Asterisk007/tars.git",
   "author": "Asterisk007 <spykid1998@gmail.com>",
   "license": "MIT",
